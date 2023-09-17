@@ -1,7 +1,7 @@
 
 # README do Projeto Bateria Digital
 
-Este é o README para o projeto de uma Bateria Digital desenvolvido como parte do curso da B7 Web. Neste projeto, criamos uma bateria digital interativa que permite aos usuários tocar sons de bateria digitando as teclas "qweasdzxc".
+Este é um projeto de uma Bateria Digital desenvolvido como parte do curso da B7 Web. Neste projeto, criamos uma bateria digital interativa que permite aos usuários tocar sons de bateria digitando as teclas "qweasdzxc".
 ![image](https://github.com/aureliodeboa/Bateria/assets/53971991/cb6531e8-951e-4063-acdd-0abb58f8564a)
 
 
